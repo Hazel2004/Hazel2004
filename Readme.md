@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **AI-driven IoT systems** and **Flutter App Development**
+- 🌱 Currently learning **AI-driven IoT systems** and **Data Analyst Tools**
 - 🛠️ Exploring **Machine Learning**, **Full Stack Development**, and **Open Source**
 - 🎯 Goals for 2025: Build impactful projects & contribute to AI safety and ethics
 
@@ -43,7 +43,7 @@
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/hazel-nilson-80a35b267" target="_blank">
+  <a href="www.linkedin.com/in/hazel-nilson-80a35b267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="hazelnilson@gmail.com">
