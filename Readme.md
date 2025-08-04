@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Hazel Nilson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 🎓 B.Tech Student in Artificial Intelligence & Data Science  
-💻 Passionate about AI, Web Development, and Open Source  
+💻 Passionate about AI,Data Analytics, Web Development, and Open Source  
 🚀 Currently working on projects like AI-powered smartbands, chatbots, and meme generators  
 📚 Always learning new technologies and building cool stuff  
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,flutter,cpp,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,django,js,react,mysql,html,css" />
 </p>
 
 ---
