@@ -41,6 +41,11 @@
 
 ---
 
+## 📊 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hazel2004&bg_color=0f172a&color=38bdf8&line=7dd3fc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## ✨ Latest Projects
 🚀 **AURABAND** — AI-powered Smartband for Dementia Patient Care  
 🎨 **MemeBot** — AI-driven Meme Generator using LLMs  
