@@ -47,7 +47,6 @@
 ---
 
 ## ✨ Latest Projects
-🚀 **AURABAND** — AI-powered Smartband for Dementia Patient Care  
 🎨 **MemeBot** — AI-driven Meme Generator using LLMs  
 📚 **Student Teacher Portal** — Web app for student-teacher interaction (Django)  
 🔄 **Disk Scheduling & Page Replacement Algorithms** — OS Simulation Projects  
