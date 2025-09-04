@@ -5,31 +5,31 @@
 ---
 
 <p align="center">
-  🎓 <strong>B.Tech Student</strong> in Artificial Intelligence & Data Science<br>
-  💡 Passionate about <strong>AI, Data Analytics, Web Development, and Open Source</strong><br>
-  🚀 Currently working on projects like <strong>AI-powered smartbands, chatbots, and meme generators</strong><br>
-  📚 Always learning new technologies & building cool things
+   <strong>B.Tech Student</strong> in Artificial Intelligence & Data Science<br>
+   Passionate about <strong>AI, Data Analytics, Web Development, and Open Source</strong><br>
+   Currently working on projects like <strong>AI-powered smartbands, chatbots, and meme generators</strong><br>
+   Always learning new technologies & building cool things
 </p>
 
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **AI-driven IoT systems** & **Data Analyst Tools**
-- 🧠 Exploring **Machine Learning**, **Full Stack Development**, & **Open Source**
-- 🎯 2025 Goals: **Build impactful projects & contribute to AI safety and ethics**
-- 🛠️ Love to transform **Intelligence into Impact**
+## About Me
+- Currently learning **AI-driven IoT systems** & **Data Analyst Tools**
+- Exploring **Machine Learning**, **Full Stack Development**, & **Open Source**
+- 2025 Goals: **Build impactful projects & contribute to AI safety and ethics**
+- Love to transform **Intelligence into Impact**
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,java,django,js,react,mysql,html,css,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streaks
+## GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hazel2004&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hazel2004&theme=tokyonight&hide_border=true" height="150"/>
@@ -41,15 +41,21 @@
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hazel2004&bg_color=0f172a&color=38bdf8&line=7dd3fc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## ✨ Latest Projects
-🎨 **MemeBot** — AI-driven Meme Generator using LLMs  
-📚 **Student Teacher Portal** — Web app for student-teacher interaction (Django)  
-🔄 **Disk Scheduling & Page Replacement Algorithms** — OS Simulation Projects  
+## Latest Projects
+- **MemeBot** — AI-driven Meme Generator using LLMs.
+
+- **To-Do Application**- A simple yet powerful task management app that allows users to create, update, and organize tasks with deadlines, ensuring better productivity and time management.
+
+- **Blog Application**-A content publishing platform where users can write, edit, and share blogs, with features like authentication, comments, and rich text editing.
+
+- **AI Chat Application**-An interactive chatbot powered by AI, capable of answering user queries, holding conversations, and providing contextual responses in real time.
+
+- **Data Analytics Project**-A data-driven project that involves cleaning, analyzing, and visualizing datasets to extract meaningful insights using statistical methods, R/Python, and visualization tools.  
 
 ---
 
